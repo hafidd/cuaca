@@ -1,0 +1,55 @@
+element.style {
+}
+style.css:1248
+.forecast-container .forecast.today {
+    width: 420px;
+}
+style.css:1238
+.forecast-container .forecast {
+    display: table-cell;
+    vertical-align: top;
+}
+style.css:204
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body
+style.css:213
+body {
+    color: #bfc1c8;
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+    background: #1e202b;
+}
+Inherited from html.js.cssgradients.csstransforms.csstransitions.svg.inlinesvg.svgclippaths
+style.css:210
+html {
+    font-size: 14px;
+}
+style.css:45
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+style.css:35
+html {
+    background: #fff;
+    color: #000;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+style.css:204
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+style.css:204
+*, *:before, *:after {
+    box-sizing: border-box;
+}
